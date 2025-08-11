@@ -10,7 +10,7 @@ pip install nazev_balicku
 pip install --upgrade nazev_balicku
 ```
 
-**dinstalace balíčku**
+**odinstalace balíčku**
 ```
 pip uninstall nazev_balicku
 ```
