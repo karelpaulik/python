@@ -35,5 +35,5 @@ Při instalaci bcrypt **ve windows, ne na linux** se může vyskytnout chyba, ž
 - Stáhněte Build Tools: Přejděte na odkaz, který je uveden v chybě (nebo vyhledejte "Microsoft C++ Build Tools").
 - Odkaz: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 - Spusťte Instalátor: Stáhněte a spusťte instalátor "Visual Studio Installer".
-- Vyberte Zátěž: V instalátoru musíte vybrat pracovní zátěž (Workload) s názvem: "Desktop development with C++" (Vývoj desktopových aplikací s C++).
+- Vyberte Zátěž: V instalátoru musíte vybrat pracovní zátěž (Workload) s názvem: "Desktop development with C++" (Vývoj desktopových aplikací s C++). Velikost cca 6GB.
 - Instalace: Dokončete instalaci. To může trvat nějakou dobu.
