@@ -9,10 +9,10 @@ python -m venv .venv
 **Aktivace prostředí**
 ```
 Windows:
-nazev_prostredi\Scripts\activate
+.venv\Scripts\activate
 
 macOS a Linux:
-source nazev_prostredi/bin/activate
+.venv/bin/activate
 ```
 
 **Deaktivace prostředí**
